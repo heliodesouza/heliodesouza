@@ -3,7 +3,7 @@
 ## Estou no 3° período de Análise e desenvolvimento de sistemas. 
 
 
-- 🌱 I’m currently learning ...PHP e NODEjs
+- 🌱 I’m currently learning ...JAVA e NODEjs
 
 
 

@@ -1,9 +1,9 @@
 ### Hi there 👋
 ## Eu sou o Hélio
-## Estou no 3° período de Análise e desenvolvimento de sistemas. 
+## Sou recém formado no curso de Análise e desenvolvimento de sistemas. 
 
 
-- 🌱 I’m currently learning ...JAVA e NODEjs
+- 🌱 I’m currently learning ...Python e Banco de Dados
 
 
 

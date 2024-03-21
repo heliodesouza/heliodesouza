@@ -1,3 +1,6 @@
+![image](https://github.com/heliodesouza/heliodesouza/assets/126121995/fecd0782-1d8d-478b-81fc-4343f7f9163c)
+
+
 ### Hi there 👋
 ## Eu sou o Hélio
 ## Sou recém formado no curso de Análise e desenvolvimento de sistemas. 
@@ -16,5 +19,8 @@
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/html_original_wordmark_logo_icon_146478.png" alt="html" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="adonisjs" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40" style="max-width:100%;"></img>
+
+<img src="https://devicon-website.vercel.app/api/postgresql/original.svg" alt="postgres" width="40" height="40" style="max-width:100%;"></img>
+          
 ## Meu Portifolio
 <a target="blank" rel="external" href="https://heliodesouza.github.io/repositorio-helio/"><img src="https://img.shields.io/badge/-Portf%C3%B3lio-brown?style= for-the-badge&logo=true"></a>
